@@ -43,15 +43,6 @@ ou
 npm start
 ```
 
-
-## 🔑 Autenticação
-
-Após o login, utilize o token:
-
-```http
-Authorization: Bearer SEU_TOKEN
-```
-
 # 📡 Endpoints
 
 ## 👤 Usuários
