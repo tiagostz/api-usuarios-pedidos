@@ -165,10 +165,6 @@ npm start
 ]
 ```
 
-### Listar pedidos por usuário
-
-**GET** `/orders/user/:id`
-
 ## 🧠 Regras
 
 * Senha criptografada com bcrypt
